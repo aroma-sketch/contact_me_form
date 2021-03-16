@@ -15,7 +15,7 @@
 .a{
     padding: 7px;
     margin: 10px;
-    width: 1000px;
+    width: auto;
     background-color: hotpink;
     float: inline-end;
     border:  5px double rgb(71, 34, 71);
